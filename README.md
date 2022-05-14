@@ -1,1 +1,1 @@
-# Flowe-classifier-web-app
+# Flower-classification-web-app
